@@ -1,4 +1,4 @@
-# react-django-books-author-app
+# react-django-books-author-app-beckend
 
 A Book storing platform with Users Login & JWt Authentication
 
@@ -19,7 +19,7 @@ A Book storing platform with Users Login & JWt Authentication
 1. Clone the project
 
 ```bash
-git clone https://github.com/nz-m/react-django-blog-app.git
+git clone https://github.com/maziic/Book-Author-backend.git
 ```
 
 2. Go to the project directory (backend)
