@@ -66,4 +66,4 @@ Now the project should be running on http://localhost:8000/
 
 ## Credits
 
-Developer : [Neaz Mahmud](https://github.com/maziic)
+Developer : [Maged Mohamed](https://github.com/maziic)
